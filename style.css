@@ -1,0 +1,20 @@
+body{ background-color: #FFF5EE
+
+    }
+body{
+
+font-family: 'Oswald', sans-serif;
+}
+
+
+button {
+  display: block;
+  margin: 15px;
+  padding: 12px 18px;
+  border: 1px solid #f08080;
+  background: #f08080;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
